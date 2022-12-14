@@ -88,10 +88,10 @@ body{
     width: 100%;
     height: 100%;
 }
-.d-text{
+/* .d-text{
     /* background-color: red; */
     /* margin-left: 50%; */
-}
+
 .d-text h1{
     font-size: 3rem;
     text-align: center;
