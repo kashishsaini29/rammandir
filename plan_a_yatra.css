@@ -1,0 +1,140 @@
+body{
+    margin: 0px;
+}
+#body-header{
+    height: 70vh;
+    background-image: url(/images/travel.jpg);
+    background-size: 100% 83%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    /* padding-top: 1.2rem;     */
+    background-color: #cbccc01c;
+    background-position-y: inherit;
+
+}
+#box1{
+    /* border: 2px solid black; */
+    display: inline-block;
+    margin-top: 480px;
+    margin-left: 40px;
+    display: flex;
+    position: absolute;
+    justify-content: space-around;
+    margin-left: 157px;
+    
+}
+.y{
+    width: 82px;
+    box-shadow: 0px 0px 6px 4px lightsteelblue;
+    display: inline;
+    padding: 0px 31px 0px 39px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 19px;
+     /* border:2px solid black; */
+     height:55px;
+     border-radius: 25px;
+}
+h2.y:hover{
+    color: white;
+    background-color: rgb(67, 67, 236);
+}
+#box2{
+    /* border: 2px solid black; */
+    position: absolute;
+    margin-top: 580px;
+    margin-left: 191px;
+    width: 70%;
+}
+.box-2{
+    display: inline-block;
+    display: flex;
+    margin-bottom: 40px;
+    justify-content: space-around;
+
+}
+.b-2{
+    /* border: 2px solid black; */
+    display: inline-block;
+    height: 61px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 31px;
+}
+.b-2 img{
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 0px 0px 6px 4px lightblue;
+}
+.b-2 p{
+    color: gray;
+    padding: 15px;
+}
+.book{
+    background-color: blue;
+    margin-top: 9px;
+    height: 44px;
+    box-shadow: 0px 0px 10px 3px lightslategrey;
+}
+.b-2 a{
+    width: 12px;
+    border-radius: 12px;
+    width: 112px;
+    padding-left: 45px;
+  color: white;
+  text-decoration: none;
+}
+
+#box-3{
+   /* border: 2px solid black;     */
+   margin-top: 480px;
+}
+#box-3>h1{
+    margin-left: 40%;
+}
+.sphere{
+    border: 2px solid black;
+     height: 325px;
+     width: 19%;
+     margin: 2%;
+     /* margin: 80px; */
+     border-radius: 50px;
+     display: inline-block;
+     box-shadow:0px 10px 27px 6px rgb(65 64 64 / 43%);
+    
+ 
+}
+.sphere div{
+    margin-top: 28px;
+    margin-left: 30%;
+    /* background-color: gainsboro; */
+}
+#img img{
+    height: 72px;
+    width: 89px;
+}
+.font-weight{
+    font-weight: 800;
+    /* border: 2px solid black; */
+}
+.sphere div h1{
+    margin-top: -39px;
+    margin-left:-28%;
+    
+}
+.sphere .para{
+    margin-left: 19px;
+    color: gray;
+    margin-left: 15%;
+}
+#arrow{
+    margin-left: 37%;
+}
+#arrow img{
+    height: 54px;
+    width: 70px; 
+}
